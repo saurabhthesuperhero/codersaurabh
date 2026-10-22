@@ -7,3 +7,4 @@ Everything I share in my Shorts and Reels: the prompts, links and steps. Comment
 | # | Video | Keyword |
 |---|---|---|
 | 001 | [Turn your Android TV into an Apple TV with one prompt](001-android-tv-to-apple-tv/) | `TV` |
+| 002 | [REA: Reverse Engineer Anything with your AI agent](002-reverse-engineer-anything/) | `REA` |
