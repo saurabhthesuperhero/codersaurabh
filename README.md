@@ -12,3 +12,5 @@ Everything I share in my Shorts and Reels: the prompts, links and steps. Comment
 | 004 | [The CA whose private key was "4" (eMudhra): check your site](004-emudhra-key-4/) | `KEY` |
 | 005 | [Your AI tool got hacked → $1,700 bill: protect API keys](005-ai-keys-stolen/) | `KEYS` |
 | 006 | [SBI data leak: stay safe from fake SBI calls](006-sbi-data-leak-safety/) | `SAFE` |
+| 007 | [Refund scam: ₹35 curd, ₹98,000 gone. Where real support is](007-refund-scam-official-support/) | `REFUND` |
+| 008 | [Challan.apk: is a hidden app reading your SMS? 2-min checklist](008-apk-sms-stealer-checklist/) | `APK` |
